@@ -16,3 +16,5 @@
 #opener = urllib.request.URLopener()
 #opener.retrieve(DOWNLOAD_BASE + MODEL_FILE, MODEL_FILE)
 ```
+然后在Jupyter中运行，就能得到被标示的结果了：
+![](https://github.com/noending/tensorflow_study/blob/master/images/download-1.png)
