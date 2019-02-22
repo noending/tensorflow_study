@@ -18,3 +18,11 @@
 ```
 然后在Jupyter中运行，就能得到被标示的结果了：
 ![](https://github.com/noending/tensorflow_study/blob/master/images/download-1.png)
+
+### [tf图片视频检测.ipynb](https://github.com/noending/tensorflow_study/blob/master/tf%E5%9B%BE%E7%89%87%E8%A7%86%E9%A2%91%E6%A3%80%E6%B5%8B.ipynb)
+
+添加了SSD视频实时检测功能
+
+### [tf-object_detection API训练验证的及可视化流程.txt](https://github.com/noending/tensorflow_study/blob/master/tf%20object_detection%20API%E8%AE%AD%E7%BB%83%E9%AA%8C%E8%AF%81%E7%9A%84%E5%8F%8A%E5%8F%AF%E8%A7%86%E5%8C%96%E6%B5%81%E7%A8%8B.txt)
+
+Tensorflow detection API从训练到评估以及tensorboard可视化
